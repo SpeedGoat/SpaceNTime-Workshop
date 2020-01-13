@@ -4,7 +4,7 @@ Materials related to space-to-event and time-to-event modeling workshops. The te
 
 This repo is still developing, but will include slides, example scripts and a few helper functions written during the workshop to explore choices and assumptions.
 
-Workshops hosted by SpeedGoat, if you would like to host a workshop please contact us at https://www.speedgoat.io/
+If you would like to host a workshop please contact us at https://www.speedgoat.io/
 
 ![SPDGT](/logo_small.png)
 
