@@ -4,6 +4,6 @@ Materials related to the workshop exploring space-to-event and time-to-event mod
 
 This repo is still developing, but will include slides, example scripts and a few helper functions written during the workshop to explore choices and assumptions.
 
-![SPDGT](https://drive.google.com/uc?export=view&id=1LSqvHppNoNdcnFuwaaLkGSNM5B66fn7B)
+![SPDGT](/logo_small.png)
 
 https://www.speedgoat.io/
